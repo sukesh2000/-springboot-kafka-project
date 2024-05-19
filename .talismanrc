@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: kafka-consumer-database/src/main/resources/application.properties
+  checksum: db52d89dbdb44587928333c3916572bdf7e8c57b80af62c3fe98c35227d509a1
 - filename: kafka-producer-wikimedia/src/main/resources/application.properties
-  checksum: e369fefd8ec4786d974b3e64ab2b4fac5065b8a572885d50da42c07ca865642d
+  checksum: 7fdb2a5d62e2af75ef4e16171f285decab9a228b044019700a3f87d949fa56fe
 version: "1.0"
