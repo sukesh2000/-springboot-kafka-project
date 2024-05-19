@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: kafka-producer-wikimedia/src/main/resources/application.properties
+  checksum: e369fefd8ec4786d974b3e64ab2b4fac5065b8a572885d50da42c07ca865642d
+version: "1.0"
